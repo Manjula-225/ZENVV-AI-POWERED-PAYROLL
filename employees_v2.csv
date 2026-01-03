@@ -1,0 +1,201 @@
+employee_id,employee_name,department,designation,join_date,status
+1,Employee_1,Operations,Lead,2019-04-04,Inactive
+2,Employee_2,Finance,Manager,2022-10-15,Active
+3,Employee_3,Sales,Executive,2019-11-07,Active
+4,Employee_4,Sales,Senior Executive,2020-11-13,Active
+5,Employee_5,Operations,Lead,2023-11-22,Inactive
+6,Employee_6,Finance,Analyst,2022-11-17,Active
+7,Employee_7,HR,Lead,2023-08-30,Active
+8,Employee_8,Finance,Senior Executive,2019-04-01,Active
+9,Employee_9,IT,Senior Executive,2019-05-26,Active
+10,Employee_10,IT,Analyst,2019-05-25,Active
+11,Employee_11,HR,Manager,2023-05-27,Active
+12,Employee_12,Operations,Executive,2023-07-13,Active
+13,Employee_13,HR,Analyst,2021-12-16,Active
+14,Employee_14,Operations,Manager,2019-09-03,Inactive
+15,Employee_15,HR,Executive,2023-12-02,Active
+16,Employee_16,Sales,Senior Executive,2021-02-05,Active
+17,Employee_17,IT,Analyst,2019-06-24,Active
+18,Employee_18,Sales,Executive,2021-12-27,Active
+19,Employee_19,Operations,Manager,2022-06-18,Active
+20,Employee_20,Operations,Manager,2023-10-18,Active
+21,Employee_21,HR,Lead,2021-07-31,Active
+22,Employee_22,HR,Manager,2021-03-07,Active
+23,Employee_23,HR,Executive,2023-09-05,Active
+24,Employee_24,Sales,Lead,2019-10-20,Active
+25,Employee_25,HR,Manager,2021-11-21,Active
+26,Employee_26,IT,Lead,2022-08-21,Active
+27,Employee_27,HR,Analyst,2020-07-06,Active
+28,Employee_28,Finance,Executive,2020-09-26,Active
+29,Employee_29,Operations,Senior Executive,2021-07-06,Active
+30,Employee_30,Finance,Senior Executive,2022-04-26,Active
+31,Employee_31,Sales,Analyst,2019-09-13,Active
+32,Employee_32,Sales,Lead,2019-11-17,Inactive
+33,Employee_33,HR,Manager,2021-11-18,Active
+34,Employee_34,Sales,Executive,2021-10-28,Active
+35,Employee_35,HR,Analyst,2020-07-09,Active
+36,Employee_36,Finance,Lead,2022-10-02,Active
+37,Employee_37,HR,Executive,2019-05-14,Active
+38,Employee_38,HR,Analyst,2022-09-18,Active
+39,Employee_39,Operations,Senior Executive,2022-05-22,Active
+40,Employee_40,Operations,Lead,2020-08-24,Active
+41,Employee_41,Operations,Lead,2023-09-13,Active
+42,Employee_42,IT,Lead,2021-10-06,Active
+43,Employee_43,Finance,Lead,2019-03-31,Active
+44,Employee_44,Sales,Manager,2021-10-11,Active
+45,Employee_45,HR,Executive,2022-11-03,Active
+46,Employee_46,Operations,Senior Executive,2021-11-11,Active
+47,Employee_47,HR,Analyst,2020-09-06,Active
+48,Employee_48,Operations,Senior Executive,2019-04-18,Active
+49,Employee_49,Sales,Executive,2022-11-01,Active
+50,Employee_50,Finance,Senior Executive,2019-06-15,Inactive
+51,Employee_51,Sales,Analyst,2022-11-07,Active
+52,Employee_52,Sales,Senior Executive,2020-08-03,Active
+53,Employee_53,Sales,Lead,2020-02-18,Active
+54,Employee_54,Finance,Senior Executive,2022-03-20,Inactive
+55,Employee_55,Sales,Lead,2019-02-02,Active
+56,Employee_56,Sales,Analyst,2021-04-11,Active
+57,Employee_57,Operations,Manager,2023-02-03,Active
+58,Employee_58,Sales,Manager,2023-10-29,Active
+59,Employee_59,Finance,Analyst,2019-01-11,Active
+60,Employee_60,Sales,Lead,2022-09-19,Active
+61,Employee_61,Finance,Analyst,2020-11-06,Active
+62,Employee_62,Finance,Executive,2021-07-18,Active
+63,Employee_63,Finance,Lead,2023-04-24,Active
+64,Employee_64,IT,Senior Executive,2022-10-15,Active
+65,Employee_65,Sales,Executive,2020-09-16,Inactive
+66,Employee_66,IT,Executive,2023-01-28,Active
+67,Employee_67,IT,Manager,2020-05-27,Active
+68,Employee_68,Sales,Lead,2019-03-24,Active
+69,Employee_69,Sales,Analyst,2023-12-04,Active
+70,Employee_70,IT,Manager,2022-07-06,Inactive
+71,Employee_71,HR,Lead,2019-01-15,Active
+72,Employee_72,Operations,Analyst,2023-09-07,Active
+73,Employee_73,Sales,Lead,2019-11-19,Inactive
+74,Employee_74,Finance,Executive,2022-08-04,Active
+75,Employee_75,Finance,Senior Executive,2021-06-23,Active
+76,Employee_76,Operations,Manager,2022-01-06,Active
+77,Employee_77,Sales,Manager,2023-02-09,Active
+78,Employee_78,Operations,Lead,2022-04-08,Active
+79,Employee_79,Operations,Analyst,2019-06-04,Active
+80,Employee_80,Operations,Manager,2020-09-07,Active
+81,Employee_81,Sales,Manager,2022-09-26,Active
+82,Employee_82,Sales,Senior Executive,2020-06-19,Active
+83,Employee_83,HR,Manager,2023-09-16,Inactive
+84,Employee_84,Operations,Executive,2022-10-04,Inactive
+85,Employee_85,Sales,Executive,2021-06-10,Active
+86,Employee_86,HR,Analyst,2023-03-10,Inactive
+87,Employee_87,IT,Lead,2023-10-10,Active
+88,Employee_88,IT,Senior Executive,2021-05-15,Active
+89,Employee_89,Sales,Senior Executive,2023-11-29,Active
+90,Employee_90,IT,Manager,2023-06-28,Active
+91,Employee_91,Sales,Manager,2021-04-06,Active
+92,Employee_92,Operations,Executive,2020-07-08,Active
+93,Employee_93,Operations,Senior Executive,2021-12-07,Inactive
+94,Employee_94,HR,Analyst,2021-05-04,Inactive
+95,Employee_95,Operations,Analyst,2022-12-22,Active
+96,Employee_96,Sales,Analyst,2021-06-16,Active
+97,Employee_97,Finance,Lead,2023-06-09,Active
+98,Employee_98,IT,Executive,2022-05-09,Inactive
+99,Employee_99,Operations,Senior Executive,2022-09-29,Active
+100,Employee_100,Operations,Manager,2020-11-17,Active
+101,Employee_101,Finance,Lead,2020-01-17,Active
+102,Employee_102,Finance,Analyst,2023-04-13,Active
+103,Employee_103,IT,Senior Executive,2019-10-19,Active
+104,Employee_104,HR,Executive,2022-05-15,Active
+105,Employee_105,Operations,Manager,2019-05-31,Active
+106,Employee_106,IT,Executive,2020-09-20,Active
+107,Employee_107,Operations,Analyst,2020-08-24,Active
+108,Employee_108,HR,Executive,2022-02-15,Active
+109,Employee_109,IT,Manager,2023-09-22,Active
+110,Employee_110,Sales,Manager,2021-03-04,Active
+111,Employee_111,IT,Manager,2020-06-26,Active
+112,Employee_112,Operations,Senior Executive,2022-02-04,Active
+113,Employee_113,Finance,Lead,2020-08-11,Active
+114,Employee_114,IT,Senior Executive,2023-01-05,Active
+115,Employee_115,Finance,Analyst,2021-01-31,Inactive
+116,Employee_116,Finance,Senior Executive,2019-09-06,Inactive
+117,Employee_117,Operations,Lead,2020-03-19,Active
+118,Employee_118,Finance,Executive,2020-08-23,Active
+119,Employee_119,HR,Analyst,2022-09-28,Active
+120,Employee_120,Operations,Senior Executive,2019-06-05,Active
+121,Employee_121,Finance,Analyst,2022-11-11,Active
+122,Employee_122,Operations,Senior Executive,2021-03-29,Active
+123,Employee_123,Sales,Senior Executive,2020-02-07,Active
+124,Employee_124,Operations,Lead,2020-04-30,Inactive
+125,Employee_125,Finance,Manager,2020-06-13,Active
+126,Employee_126,Sales,Executive,2019-02-22,Active
+127,Employee_127,HR,Lead,2023-01-29,Active
+128,Employee_128,Finance,Lead,2023-03-21,Active
+129,Employee_129,Sales,Executive,2023-06-14,Active
+130,Employee_130,Operations,Executive,2022-05-30,Active
+131,Employee_131,HR,Executive,2021-04-23,Active
+132,Employee_132,Sales,Lead,2020-09-05,Active
+133,Employee_133,Finance,Analyst,2021-02-05,Active
+134,Employee_134,Operations,Lead,2019-08-12,Active
+135,Employee_135,Operations,Senior Executive,2023-05-14,Active
+136,Employee_136,Operations,Lead,2020-05-30,Active
+137,Employee_137,IT,Manager,2021-07-15,Active
+138,Employee_138,Finance,Manager,2023-01-17,Active
+139,Employee_139,Sales,Senior Executive,2022-06-26,Active
+140,Employee_140,Sales,Lead,2023-11-03,Active
+141,Employee_141,IT,Manager,2021-12-22,Active
+142,Employee_142,Operations,Senior Executive,2021-10-21,Active
+143,Employee_143,HR,Lead,2020-05-05,Active
+144,Employee_144,Sales,Executive,2022-10-20,Inactive
+145,Employee_145,HR,Analyst,2019-05-01,Active
+146,Employee_146,Finance,Manager,2019-03-21,Active
+147,Employee_147,HR,Senior Executive,2023-01-08,Active
+148,Employee_148,Operations,Senior Executive,2023-11-17,Active
+149,Employee_149,Sales,Analyst,2019-04-11,Active
+150,Employee_150,Finance,Executive,2019-02-14,Active
+151,Employee_151,IT,Manager,2023-08-05,Active
+152,Employee_152,HR,Senior Executive,2023-06-21,Active
+153,Employee_153,IT,Senior Executive,2022-02-14,Active
+154,Employee_154,HR,Senior Executive,2020-07-21,Active
+155,Employee_155,IT,Lead,2020-04-25,Active
+156,Employee_156,Finance,Manager,2023-09-15,Active
+157,Employee_157,Finance,Lead,2019-11-28,Active
+158,Employee_158,Sales,Analyst,2019-08-24,Active
+159,Employee_159,Finance,Senior Executive,2022-05-02,Active
+160,Employee_160,HR,Senior Executive,2019-12-19,Active
+161,Employee_161,HR,Analyst,2021-01-13,Active
+162,Employee_162,Finance,Senior Executive,2020-01-26,Active
+163,Employee_163,Finance,Analyst,2022-08-21,Active
+164,Employee_164,Finance,Senior Executive,2020-01-23,Active
+165,Employee_165,Sales,Analyst,2021-07-23,Inactive
+166,Employee_166,IT,Lead,2020-07-21,Active
+167,Employee_167,HR,Analyst,2021-09-17,Active
+168,Employee_168,IT,Lead,2022-05-28,Active
+169,Employee_169,IT,Executive,2020-09-08,Active
+170,Employee_170,Operations,Lead,2022-08-03,Active
+171,Employee_171,IT,Lead,2021-03-05,Active
+172,Employee_172,Sales,Executive,2022-08-19,Active
+173,Employee_173,Operations,Analyst,2021-12-15,Active
+174,Employee_174,HR,Executive,2023-04-27,Active
+175,Employee_175,Finance,Analyst,2021-04-02,Active
+176,Employee_176,Operations,Senior Executive,2020-05-14,Active
+177,Employee_177,Finance,Senior Executive,2021-03-05,Active
+178,Employee_178,Operations,Analyst,2022-01-20,Active
+179,Employee_179,Sales,Senior Executive,2023-10-20,Active
+180,Employee_180,IT,Lead,2023-08-13,Active
+181,Employee_181,Operations,Lead,2019-08-25,Active
+182,Employee_182,Finance,Executive,2023-10-05,Active
+183,Employee_183,HR,Senior Executive,2023-03-02,Active
+184,Employee_184,IT,Analyst,2022-10-09,Active
+185,Employee_185,Operations,Analyst,2021-11-27,Inactive
+186,Employee_186,HR,Senior Executive,2021-03-23,Active
+187,Employee_187,HR,Manager,2020-11-20,Active
+188,Employee_188,Operations,Lead,2023-10-13,Active
+189,Employee_189,Finance,Executive,2019-10-29,Active
+190,Employee_190,HR,Manager,2021-04-29,Active
+191,Employee_191,IT,Analyst,2022-08-28,Inactive
+192,Employee_192,HR,Lead,2020-05-09,Active
+193,Employee_193,Sales,Lead,2021-02-24,Active
+194,Employee_194,HR,Manager,2022-06-04,Active
+195,Employee_195,Finance,Manager,2021-08-26,Active
+196,Employee_196,Sales,Analyst,2021-06-05,Active
+197,Employee_197,IT,Manager,2023-06-02,Active
+198,Employee_198,HR,Lead,2021-12-22,Active
+199,Employee_199,HR,Lead,2023-05-03,Active
+200,Employee_200,Operations,Senior Executive,2019-03-11,Active
